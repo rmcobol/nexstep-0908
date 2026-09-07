@@ -1,6 +1,6 @@
 
 <h1><훈련생 인트라넷></h1>
-<h2 ><a href="www.nexstepcampus.co.kr/sysop/main/login.jsp" style="color:red;">훈련생 인트라넷</a></h2>
+<h2 ><a href="https://www.nexstepcampus.co.kr/sysop/main/login.jsp" style="color:red;">훈련생 인트라넷</a></h2>
 
 <h1><대한상공회의소 상시 검정></h1>
 <h2 ><a href="https://license.korcham.net/indexmain.jsp" style="color:red;">상시 시험 접수 클릭해 주세요.</a></h2>
